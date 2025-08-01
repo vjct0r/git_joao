@@ -7,4 +7,4 @@ repositório para atividades.
 
 1) - somapares_jv: Leia 10 números e armazene em um vetor. Exiba a soma apenas dos números pares.
 
-2) - 
+2) - fila_jv: Inverta a ordem das letras de uma palavra usando uma pilha.
