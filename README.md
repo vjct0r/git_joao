@@ -16,3 +16,5 @@ repositório para atividades.
 5) - substacao_vetores: Receba dois vetores com 5 elementos cada. Calcule e exiba um novo vetor com a subtração elemento a elemento.
   
 6) - tabelas_verdade - Tabelas verdade OR, AND, e NOT A
+
+7) - palavra_invertida - Inverter a ordem da letras de uma palavra digitada pelo usuário.
