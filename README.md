@@ -3,4 +3,8 @@
 Aluno: João Victor Araújo de Sousa.
 Curso: Tecnico em desenvolvimento de sistemas.
 
-repositório para teste e atividades.
+repositório para atividades.
+
+1) - Leia 10 números e armazene em um vetor. Exiba a soma apenas dos números pares.
+
+2) - 
