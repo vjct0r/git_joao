@@ -7,6 +7,6 @@ repositório para atividades.
 
 1) - somapares_jv: Leia 10 números e armazene em um vetor. Exiba a soma apenas dos números pares.
 
-2) - fila_jv: Implemente uma pilha para inverter a ordem das letras de uma palavra digitada pelo usuário.
+2) - fila_jv: Crie uma fila de atendimento com 5 pessoas. Simule a chamada sequencial de cada uma delas.
 
-3) - nomesbuscar: 
+3) - nomesbuscar: Preencha um vetor com 5 nomes. Permita ao usuário digitar um nome e informe se ele está no vetor.
