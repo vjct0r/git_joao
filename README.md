@@ -5,6 +5,6 @@ Curso: Tecnico em desenvolvimento de sistemas.
 
 repositório para atividades.
 
-1) - Leia 10 números e armazene em um vetor. Exiba a soma apenas dos números pares.
+1) - Soma de números pares: Leia 10 números e armazene em um vetor. Exiba a soma apenas dos números pares.
 
 2) - 
