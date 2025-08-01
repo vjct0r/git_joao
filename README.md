@@ -10,3 +10,5 @@ repositório para atividades.
 2) - fila_jv: Crie uma fila de atendimento com 5 pessoas. Simule a chamada sequencial de cada uma delas.
 
 3) - nomesbuscar: Preencha um vetor com 5 nomes. Permita ao usuário digitar um nome e informe se ele está no vetor.
+
+4) - apresentacao_aluno: Receba o nome de 5 alunos em ordem de chegada. Mostre a ordem de apresentação de seus trabalhos.
