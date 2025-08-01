@@ -12,3 +12,7 @@ repositório para atividades.
 3) - nomesbuscar: Preencha um vetor com 5 nomes. Permita ao usuário digitar um nome e informe se ele está no vetor.
 
 4) - apresentacao_aluno: Receba o nome de 5 alunos em ordem de chegada. Mostre a ordem de apresentação de seus trabalhos.
+
+5) - substacao_vetores: Receba dois vetores com 5 elementos cada. Calcule e exiba um novo vetor com a subtração elemento a elemento.
+  
+6) - 
